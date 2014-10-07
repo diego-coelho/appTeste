@@ -1,0 +1,4 @@
+appTeste
+========
+
+teste App phoneGap
